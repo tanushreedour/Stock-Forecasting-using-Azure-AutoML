@@ -2,7 +2,7 @@
 
 The ever-fluctuating nature of stock prices makes their prediction a challenging yet intriguing task. This project explores the potential of Azure AutoML, a cloud-based automated machine learning platform, to forecast the stock prices of Tesla from 2015 to 2024. By leveraging historical data and the power of Azure AutoML, we aim to gain insights into Tesla's stock behavior and assess the feasibility of using automated machine learning for stock price forecasting.
 
-Data source: Kaggle
+<strong>Data source</strong>: Kaggle
 
 Tool used: Microsoft Azure AutoML
 
